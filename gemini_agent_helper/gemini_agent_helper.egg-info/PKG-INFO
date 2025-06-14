@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: gemini-agent-helper
+Version: 0.1.0
+Summary: Add your description here
+Author: Huriya Syed
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: click>=8.2.1
+Requires-Dist: openai-agents>=0.0.17
+Requires-Dist: python-dotenv>=1.1.0
+Requires-Dist: runner>=1.1
+Requires-Dist: setuptools>=80.9.0
+Requires-Dist: wheel>=0.45.1
+Dynamic: author
